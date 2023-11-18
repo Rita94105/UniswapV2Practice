@@ -3,6 +3,6 @@ src = "src"
 out = "out"
 libs = ["lib"]
 
-rpc_endpoints = {mainnet = "https://mainnet.infura.io/v3/55ecfe07fecb4b83913c0da51b5ad347"}
+rpc_endpoints = {mainnet = "https://mainnet.infura.io/v3/{id}"}
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
