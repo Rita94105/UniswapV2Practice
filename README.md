@@ -1,5 +1,7 @@
 # UniswapV2Practice
-In `UniswapV2Practice.t.sol`, we have four practices and two discussions. Please follow the instructions provided in the comments to successfully pass the tests.
+1. In `UniswapV2Practice.t.sol`, we have four practices and two discussions. Please follow the instructions provided in the comments to successfully pass the tests.
+
+2. Please exploit the bank contract in `Bank.t.sol` to implement Reentrancy
 
 Reference:
 - UniswapV2-core: https://github.com/Uniswap/v2-core
